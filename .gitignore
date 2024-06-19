@@ -1,0 +1,6 @@
+*.o
+my_rpg
+test.c
+.vscode
+TODO
+saves/*
